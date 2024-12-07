@@ -7,6 +7,7 @@
 <img width="948" alt="snap4" src="https://github.com/user-attachments/assets/3a0e79eb-fd4a-4b98-b2af-32593ff45c29">
 #Trending-collection
 <img width="953" alt="snap5" src="https://github.com/user-attachments/assets/940afc72-a8ab-445a-974b-1bdcf2810075">
+
 #Kids-collection
 <img width="950" alt="snap6" src="https://github.com/user-attachments/assets/4f0c1315-f559-4694-8785-025eea10e3e2">
 #Book-details
