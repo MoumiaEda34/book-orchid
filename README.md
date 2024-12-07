@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+#Home
+<img width="949" alt="snap1" src="https://github.com/user-attachments/assets/2841166f-aa9f-4131-8337-87257858a19d">
+<img width="945" alt="snap2" src="https://github.com/user-attachments/assets/00f3f7fc-8847-4548-b354-40f555507251">
+#Footer
+<img width="954" alt="snap3" src="https://github.com/user-attachments/assets/0b51481a-3f00-44a4-adb6-741809166f49">
+#About-Us
+<img width="948" alt="snap4" src="https://github.com/user-attachments/assets/3a0e79eb-fd4a-4b98-b2af-32593ff45c29">
+#Trending-collection
+<img width="953" alt="snap5" src="https://github.com/user-attachments/assets/940afc72-a8ab-445a-974b-1bdcf2810075">
+#Kids-collection
+<img width="950" alt="snap6" src="https://github.com/user-attachments/assets/4f0c1315-f559-4694-8785-025eea10e3e2">
+#Book-details
+<img width="947" alt="snap7" src="https://github.com/user-attachments/assets/6895fcb9-afdf-4758-a1df-e27ea690812e">
+#Book-order-details
+<img width="947" alt="snap8" src="https://github.com/user-attachments/assets/00bcbc29-3da5-4054-bfef-3cead5066db9">
+#Book-order-list
+<img width="946" alt="snap9" src="https://github.com/user-attachments/assets/11da8674-9bc1-4328-9d1b-7242e8894520">
+#Wishlist
+<img width="960" alt="snap10" src="https://github.com/user-attachments/assets/2ba3f507-b196-4228-a3aa-c4ccfa3c2190">
+#Register
+<img width="943" alt="snap11" src="https://github.com/user-attachments/assets/87e8b2cf-57e3-4cce-8879-562d0768d315">
+#Login
+<img width="948" alt="snap12" src="https://github.com/user-attachments/assets/f31b0b51-d63c-4852-863b-32bf80074ebc">
+#Contact-us
+<img width="950" alt="snap13" src="https://github.com/user-attachments/assets/58813082-9dc3-4e75-b6de-0925474e1388">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
