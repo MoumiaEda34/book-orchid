@@ -6,6 +6,117 @@
   height: 40vmin;
   pointer-events: none;
 }
+.header{
+  width: 100%;
+  background-color: blue;
+  color: #fff;
+  padding: 1%;
+  text-align: left;
+}
+body {
+  padding: 0 !important;
+  overflow: auto !important;
+}
+.slick-next {
+  right: 10px !important;
+}
+.slick-prev {
+  left: 0% !important;
+}
+.slider-section {
+  padding-left: 20px;
+}
+ /* Custom arrow styling */
+.slick-prev,
+.slick-next {
+  position: absolute;
+  top: 50%;
+  z-index: 1;
+  cursor: pointer;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  padding: 10px;
+}
+
+.slick-prev {
+  left: 10px; /* Position left arrow */
+}
+
+.slick-next {
+  right: 10px; /* Position right arrow */
+}
+
+.slick-prev:before,
+.slick-next:before {
+  font-size: 20px;
+  color: #000;
+}
+
+a{
+  text-decoration: none !important;
+  color: white !important;
+  padding: 2px;
+}
+
+.about-main button {
+  background: #420e07eb !important;
+  border: 1px solid #420e07eb !important;
+}
+ul.MuiList-root.MuiList-padding.MuiMenu-list.css-1toxriw-MuiList-root-MuiMenu-list {
+  background: #424242!important;
+}
+span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.css-1u17omx-MuiTypography-root {
+  color:#420e07eb !important;
+}
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation16.MuiDrawer-paper.MuiDrawer-paperAnchorRight.css-y7ab46-MuiPaper-root-MuiDrawer-paper {
+  width: 100% !important;
+  height: 450px !important;
+}
+.all-order-main h4 {
+  text-decoration: underline;
+  color: #420e07eb !important;
+}
+.trend-main h4 {
+  color: #420e07eb !important;
+  padding-top: 20px;
+  text-decoration: underline;
+}
+.about-main h3 {
+  color: #420e07eb !important;
+  text-decoration: underline;
+  font-size: 26px;
+}
+.kids-main h4 {
+  color: #420e07eb !important;
+  padding-top: 20px;
+  text-decoration: underline;
+}
+.card-header{
+  text-align: right;
+}
+.featured-main button {
+  background: #420e07eb;
+  border: 1px solid #420e07eb;
+}
+.kids-main h2 {
+  text-align: left;
+  font-family: "Courier New", monospace;
+  padding-top: 10px;
+  color: #420e07eb;
+  font-size: 23px;
+  padding-left: 38px;
+  text-decoration: underline;
+}
+.trending-main h2 {
+  text-align: left;
+  font-family: "Courier New", monospace;
+  padding-top: 10px;
+  color: #420e07eb;
+  font-size: 23px;
+  padding-left: 38px;
+  text-decoration: underline;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

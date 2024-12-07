@@ -1,0 +1,378 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@in.com",
+      "phone": "9876543210",
+      "password": "123456",
+      "role": "admin"
+    },
+    {
+      "id": "1bdd",
+      "name": "Moumita Ahamed",
+      "email": "moumita.ahamed7860@gmail.com",
+      "phone": "1234567899",
+      "password": "123456"
+    },
+    {
+      "id": "15b5",
+      "name": "user",
+      "email": "user@gmail.com",
+      "phone": "1234567890",
+      "role": "staff",
+      "password": "123456"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publication_year": 1960,
+      "genre": [
+        "Fiction",
+        "Classic"
+      ],
+      "description": "A classic novel depicting racial injustice in the American South.",
+      "cover_image": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg",
+      "purchase_price": 15.99,
+      "rent_price": 4.99,
+      "rating": 4.8
+    },
+    {
+      "id": "2",
+      "title": "1984",
+      "author": "George Orwell",
+      "publication_year": 1949,
+      "genre": [
+        "Dystopian",
+        "Science Fiction"
+      ],
+      "description": "A dystopian novel portraying a totalitarian society.",
+      "cover_image": "https://s3.amazonaws.com/adg-bucket/1984-george-orwell/3423-medium.jpg",
+      "purchase_price": 18.99,
+      "rent_price": 5.99,
+      "rating": 4.7
+    },
+    {
+      "id": "3",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publication_year": 1813,
+      "genre": [
+        "Classic",
+        "Romance"
+      ],
+      "description": "A classic novel exploring themes of love, marriage, and social norms.",
+      "cover_image": "https://m.media-amazon.com/images/I/7134u8yD1YL._UF1000,1000_QL80_.jpg",
+      "purchase_price": 12.99,
+      "rent_price": 3.99,
+      "rating": 4.5
+    },
+    {
+      "id": "4",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "publication_year": 1925,
+      "genre": [
+        "Fiction",
+        "Classic"
+      ],
+      "description": "A tale of the American Dream, wealth, and love during the Roaring Twenties.",
+      "cover_image": "https://ritikart.com/cdn/shop/files/1_444dfe1e-846d-49ff-83de-d347a8a13bdf.jpg?v=1699875126",
+      "purchase_price": 14.99,
+      "rent_price": 4.49,
+      "rating": 4.4
+    },
+    {
+      "id": "5",
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "publication_year": 1851,
+      "genre": [
+        "Fiction",
+        "Adventure"
+      ],
+      "description": "The epic tale of Captain Ahab's obsession with the white whale.",
+      "cover_image": "https://m.media-amazon.com/images/I/71K4OH9CqOL._UF1000,1000_QL80_.jpg",
+      "purchase_price": 16.99,
+      "rent_price": 4.99,
+      "rating": 4.2
+    },
+    {
+      "id": "6",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "publication_year": 1954,
+      "genre": [
+        "Fantasy",
+        "Adventure"
+      ],
+      "description": "An epic fantasy saga about the quest to destroy the One Ring.",
+      "cover_image": "https://m.media-amazon.com/images/I/81nV6x2ey4L._AC_UF1000,1000_QL80_.jpg",
+      "purchase_price": 20.99,
+      "rent_price": 6.99,
+      "rating": 4.9
+    }
+  ],
+  "kids": [
+    {
+      "id": "1",
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "publication_year": 1865,
+      "genre": [
+        "Fantasy",
+        "Children's Literature"
+      ],
+      "description": "A whimsical tale about a girl named Alice who falls into a magical world.",
+      "cover_image": "https://m.media-amazon.com/images/I/81svZOFopwL._AC_UF1000,1000_QL80_.jpg",
+      "purchase_price": 10.99,
+      "rent_price": 3.49,
+      "rating": 4.6
+    },
+    {
+      "id": "2",
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "publication_year": 1943,
+      "genre": [
+        "Fable",
+        "Children's Literature"
+      ],
+      "description": "A philosophical novella about a young prince's journey through the universe.",
+      "cover_image": "https://i.harperapps.com/covers/9780547970486/x340.jpg",
+      "purchase_price": 11.99,
+      "rent_price": 3.99,
+      "rating": 4.8
+    },
+    {
+      "id": "3",
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "publication_year": 1950,
+      "genre": [
+        "Fantasy",
+        "Children's Literature"
+      ],
+      "description": "A series of fantasy novels set in the magical land of Narnia.",
+      "cover_image": "https://m.media-amazon.com/images/I/51M986W18SL._AC_UF1000,1000_QL80_.jpg",
+      "purchase_price": 18.99,
+      "rent_price": 5.49,
+      "rating": 4.7
+    },
+    {
+      "id": "4",
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "publication_year": 1911,
+      "genre": [
+        "Children's Literature",
+        "Classic"
+      ],
+      "description": "A classic children's novel about a young girl who discovers a hidden garden.",
+      "cover_image": "https://m.media-amazon.com/images/I/81-RAjAKF4L._AC_UF1000,1000_QL80_.jpg",
+      "purchase_price": 12.49,
+      "rent_price": 3.79,
+      "rating": 4.4
+    },
+    {
+      "id": "5",
+      "title": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "publication_year": 1908,
+      "genre": [
+        "Children's Literature",
+        "Fantasy"
+      ],
+      "description": "A children's novel about the adventures of anthropomorphic animals.",
+      "cover_image": "https://sterling-us.imgix.net/covers/9781454956761.jpg?auto=format&h=648",
+      "purchase_price": 13.49,
+      "rent_price": 4.19,
+      "rating": 4.3
+    },
+    {
+      "id": "6",
+      "title": "The Silmarillion",
+      "author": "J.R.R. Tolkien",
+      "publication_year": 1977,
+      "genre": [
+        "Fantasy",
+        "Mythopoeia"
+      ],
+      "description": "A collection of mythopoeic stories about the history of Middle-earth.",
+      "cover_image": "https://m.media-amazon.com/images/I/81EpNNa7+wL._AC_UF1000,1000_QL80_.jpg",
+      "purchase_price": 19.99,
+      "rent_price": 6.49,
+      "rating": 4.8
+    }
+  ],
+  "orders": [
+    {
+      "id": "7e68",
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "option": "buy",
+      "quantity": 1,
+      "price": 11.99,
+      "fromDate": null,
+      "toDate": null,
+      "userName": "Admin",
+      "userId": "1"
+    },
+    {
+      "id": "d6d4",
+      "title": "1984",
+      "author": "George Orwell",
+      "option": "buy",
+      "quantity": 2,
+      "price": 37.98,
+      "fromDate": null,
+      "toDate": null,
+      "userName": "user",
+      "userId": null
+    },
+    {
+      "id": "5840",
+      "title": "1984",
+      "author": "George Orwell",
+      "option": "buy",
+      "quantity": 2,
+      "price": 37.98,
+      "fromDate": null,
+      "toDate": null,
+      "userName": "User",
+      "userId": null
+    },
+    {
+      "id": "9b7c",
+      "title": "1984",
+      "author": "George Orwell",
+      "option": "buy",
+      "quantity": 3,
+      "price": 56.97,
+      "fromDate": null,
+      "toDate": null,
+      "userName": "user",
+      "userId": "15b5"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "3",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publication_year": 1813,
+      "genre": [
+        "Classic",
+        "Romance"
+      ],
+      "description": "A classic novel exploring themes of love, marriage, and social norms.",
+      "cover_image": "https://m.media-amazon.com/images/I/7134u8yD1YL._UF1000,1000_QL80_.jpg",
+      "purchase_price": 12.99,
+      "rent_price": 3.99,
+      "rating": 4.5,
+      "option": "buy",
+      "quantity": 1,
+      "price": 12.99,
+      "total": 12.99,
+      "fromDate": null,
+      "toDate": null,
+      "userId": "1bdd",
+      "userName": "Moumita Ahamed"
+    },
+    {
+      "id": "2",
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "publication_year": 1943,
+      "genre": [
+        "Fable",
+        "Children's Literature"
+      ],
+      "description": "A philosophical novella about a young prince's journey through the universe.",
+      "cover_image": "https://i.harperapps.com/covers/9780547970486/x340.jpg",
+      "purchase_price": 11.99,
+      "rent_price": 3.99,
+      "rating": 4.8,
+      "option": "buy",
+      "quantity": 1,
+      "price": 11.99,
+      "total": 11.99,
+      "fromDate": null,
+      "toDate": null,
+      "userId": "1",
+      "userName": "Admin"
+    },
+    {
+      "id": "1",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "publication_year": 1960,
+      "genre": [
+        "Fiction",
+        "Classic"
+      ],
+      "description": "A classic novel depicting racial injustice in the American South.",
+      "cover_image": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg",
+      "purchase_price": 15.99,
+      "rent_price": 4.99,
+      "rating": 4.8,
+      "option": "buy",
+      "quantity": 1,
+      "price": 15.99,
+      "total": 15.99,
+      "fromDate": null,
+      "toDate": null,
+      "userId": null,
+      "userName": "user"
+    },
+    {
+      "id": "3",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publication_year": 1813,
+      "genre": [
+        "Classic",
+        "Romance"
+      ],
+      "description": "A classic novel exploring themes of love, marriage, and social norms.",
+      "cover_image": "https://m.media-amazon.com/images/I/7134u8yD1YL._UF1000,1000_QL80_.jpg",
+      "purchase_price": 12.99,
+      "rent_price": 3.99,
+      "rating": 4.5,
+      "option": "buy",
+      "quantity": 1,
+      "price": 12.99,
+      "total": 12.99,
+      "fromDate": null,
+      "toDate": null,
+      "userId": null,
+      "userName": "User"
+    },
+    {
+      "id": "3",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "publication_year": 1813,
+      "genre": [
+        "Classic",
+        "Romance"
+      ],
+      "description": "A classic novel exploring themes of love, marriage, and social norms.",
+      "cover_image": "https://m.media-amazon.com/images/I/7134u8yD1YL._UF1000,1000_QL80_.jpg",
+      "purchase_price": 12.99,
+      "rent_price": 3.99,
+      "rating": 4.5,
+      "option": "buy",
+      "quantity": 1,
+      "price": 12.99,
+      "total": 12.99,
+      "fromDate": null,
+      "toDate": null,
+      "userId": "15b5",
+      "userName": "user"
+    }
+  ]
+}
